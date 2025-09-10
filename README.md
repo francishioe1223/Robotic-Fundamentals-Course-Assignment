@@ -1,6 +1,6 @@
 # Robotic Fundamentals Coursework
 
-This repository contains my comprehensive coursework for the **Robotic Fundamentals** module as part of my Robotics MSc program. The coursework demonstrates theoretical understanding and practical implementation of fundamental robotics concepts including kinematics, dynamics, and control systems for serial and parallel manipulators.
+This repository contains my comprehensive coursework for the **Robotic Fundamentals** module in the Robotics MSc program at the University of Bristol. The coursework demonstrates theoretical understanding and practical implementation of fundamental robotics concepts including kinematics, dynamics, and control systems for serial and parallel manipulators.
 
 ## Project Overview
 
