@@ -1,4 +1,4 @@
-# Robotic Fundamentals Coursework
+# Robot Kinematics & Motion Planning: Serial & Parallel Manipulator Analysis
 
 This repository contains my comprehensive coursework for the **Robotic Fundamentals** module in the Robotics MSc program at the University of Bristol. The coursework demonstrates theoretical understanding and practical implementation of fundamental robotics concepts including kinematics, dynamics, and control systems for serial and parallel manipulators.
 
